@@ -1,8 +1,8 @@
-# dependents-graph
+# dependency-tree (graph)
 
 ## bin-dep-graph.ps1
 
-This script creates a dependency graph (in [GraphML][1] format) for given Windows binary files.
+This script creates a dependency tree (graph) (in [GraphML][1] format) for given Windows binary files.
 
 ```PowerShell
 # Examples
